@@ -1,6 +1,10 @@
-# Aim:
+# Ex_No_3_Supply Chain Transparency for Luxury Goods
+# NAME: RADHIMEENA M
+# REGISTER NUMBER: 212223040159
+
+## Aim:
 To develop a smart contract that tracks the supply chain of luxury goods, ensuring authenticity.
-# Algorithm:
+## Algorithm:
 The manufacturer records product creation details on-chain.
 
 
@@ -13,7 +17,7 @@ The ownership of the product can be transferred securely.
 Buyers can verify the product’s authenticity.
 
 
-# Program:
+## Program:
 ```
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
@@ -48,8 +52,12 @@ contract LuxurySupplyChain {
     }
 }
 ```
-# Expected Output:
+## Expected Output:
 A luxury good (e.g., a Rolex watch) is registered on-chain.
+<img width="1914" height="1138" alt="image" src="https://github.com/user-attachments/assets/b5a3f388-8707-4199-9f7f-42c09cfa9cb4" />
+<img width="1909" height="1108" alt="image" src="https://github.com/user-attachments/assets/fb2e0974-6389-4819-a418-328bd8b3a148" />
+<img width="1915" height="1097" alt="image" src="https://github.com/user-attachments/assets/50248e9f-77d3-426f-828a-b4e004a9322b" />
+
 
 
 Ownership is transferred at every checkpoint.
@@ -58,11 +66,11 @@ Ownership is transferred at every checkpoint.
 Buyers can check the authenticity before purchasing.
 
 
-# High-Level Overview:
+## High-Level Overview:
 Helps prevent counterfeit luxury goods.
 
 
 Teaches real-world supply chain use cases.
 
-# RESULT : 
-
+## RESULT : 
+Thus a smart contract that tracks the supply chain of luxury goods, ensuring authenticity is executed successfully.
